@@ -4,6 +4,12 @@
 
 </p>
 
+<h1>
+
+    THIS IS MY VERSION OF HOMEBRIDGE PLUGIN BASED ON OZNU PROJECT, I'M USING THIS VERSION TO LEARN!
+
+</h1>
+
 <span align="center">
 
 # Homebridge Platform Plugin Template
